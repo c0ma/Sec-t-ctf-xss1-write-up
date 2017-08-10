@@ -1,4 +1,5 @@
 URL: http://xss1.sect.ctf.rocks/?xss=stuff
+
 The xss parameter was set to a variable 'a':
 
 ```
